@@ -319,7 +319,7 @@ height: '27px',backgroundColor:"#EDEEF0"}}> <IoShareSocial className='fs-5 ' /><
 
 {/**---------------card 4------------ */}
  <Card className="w-100 w-md-50 mt-3 mb-2" style={{ maxWidth: "600px" }}>
-       <Card.Img variant="top" src={post3} /> 
+       {/* <Card.Img variant="top" src={post3} />  */}
     <Card.Body>
       <Card.Title>💼️ Job</Card.Title>
 
